@@ -1,0 +1,27 @@
+/* body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#map {
+    height: 500px;
+    width: 80%;
+    margin: 0 auto;
+} */
+
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#map {
+  height: 500px;
+  width: 100%;
+  margin: auto;
+}
+
+#error-message {
+  color: red;
+  margin-top: 10px;
+}
